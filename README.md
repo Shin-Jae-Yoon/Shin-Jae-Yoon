@@ -1,12 +1,35 @@
 <div align = center>  
-  <h1><img src="https://img1.daumcdn.net/thumb/C32x32/?scode=mtistory2&fname=https%3A%2F%2Ftistory3.daumcdn.net%2Ftistory%2F5252507%2F9f1447b3d8ac45ffa6c01c21fa6aec75"/> 기억하며 성장하는 백엔드 개발자, 신재윤입니다.</h1>
+  <h1><img src="https://img1.daumcdn.net/thumb/C32x32/?scode=mtistory2&fname=https%3A%2F%2Ftistory3.daumcdn.net%2Ftistory%2F5252507%2F9f1447b3d8ac45ffa6c01c21fa6aec75"/> Junior Backend Developer, Uni </h1>
+</div>
+
+<div align = center>
+  <strong>Dev-Uni</strong> is a person who does not give up, perseveres and achieves results. <br>
+  One of my favorite methodologies is object-oriented programming. <br>
+  This is because I felt the beauty of interacting with objects in the real world. <br>
 </div>
 
 <br>
 
 <div align = center>
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shin-Jae-Yoon&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shin-Jae-Yoon&layout=compact&theme=react)](https://github.com/metleeha)
+<a href="https://github.com/Shin-Jae-Yoon">
+  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Shin-Jae-Yoon"/>
+</a>
+<a href="https://github.com/Shin-Jae-Yoon">
+  <img src="https://img.shields.io/badge/Tech Blog-critical?style=flat-square&logo=Tistory&logoColor=white&link=https://github.com/Shin-Jae-Yoon"/>
+</a>
+<a href="https://github.com/Shin-Jae-Yoon">
+  <img src="https://img.shields.io/badge/-Second Brain-FF4088?style=flat-square&logo=Hugo&logoColor=white&link=https://github.com/Shin-Jae-Yoon"/>
+</a>
+<a href="https://github.com/Shin-Jae-Yoon">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://github.com/Shin-Jae-Yoon"/>
+</a>
+</div>
+
+<br>
+
+<div align = center>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shin-Jae-Yoon&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shin-Jae-Yoon&layout=compact&langs_count=6&theme=material-palenight"/>
   
 </div>
