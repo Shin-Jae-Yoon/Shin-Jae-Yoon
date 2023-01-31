@@ -3,9 +3,11 @@
 </div>
 
 <div align = center>
-  <strong>Dev-Uni</strong> is a person who does not give up, perseveres and achieves results. <br>
-  One of my favorite methodologies is object-oriented programming. <br>
-  This is because I felt the beauty of interacting with objects in the real world. <br>
+  <strong>Dev-Uni</strong> is a person who does not give up. <br>
+  Perseveres and achieves results. <br>
+  One of my favorite methodologies is OOP. <br>
+  This is because I felt the beauty of interacting <br>
+  with objects in the real world. <br>
 </div>
 
 <br>
@@ -29,7 +31,7 @@
 
 <div align = center>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shin-Jae-Yoon&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shin-Jae-Yoon&layout=compact&langs_count=6&theme=material-palenight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Shin-Jae-Yoon&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight"/>
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shin-Jae-Yoon&layout=compact&langs_count=6&theme=material-palenight"/>
   
 </div>
