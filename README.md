@@ -31,7 +31,7 @@
 
 <p align = center >
   <a href="https://github.com/Shin-Jae-Yoon/">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shin-Jae-Yoon&&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shin-Jae-Yoon&langs_count=6&theme=material-palenight&layout=compact"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shin-Jae-Yoon&&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" height="160" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shin-Jae-Yoon&langs_count=6&theme=material-palenight&layout=compact" height="160" />
   </a> 
 </p>
