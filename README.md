@@ -30,8 +30,8 @@
 <br>
 
 <div align = center>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Shin-Jae-Yoon&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight"/>
-<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shin-Jae-Yoon&layout=compact&langs_count=6&theme=material-palenight"/>
+  
+<img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shin-Jae-Yoon&&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shin-Jae-Yoon&langs_count=6&theme=material-palenight&layout=compact"/>
   
 </div>
