@@ -17,13 +17,13 @@
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Shin-Jae-Yoon"/>
 </a> -->
 <a href="https://jae-yoon.tistory.com/">
-  <img src="https://img.shields.io/badge/Tech Blog-critical?style=flat-square&logo=Tistory&logoColor=white&link=https://jae-yoon.tistory.com/"/>
+  <img src="https://img.shields.io/badge/Tech Blog-FF9E2A?style=flat-square&logo=Tistory&logoColor=white&link=https://jae-yoon.tistory.com/"/>
 </a>
 <a href="https://shin-jae-yoon.github.io/">
   <img src="https://img.shields.io/badge/-Second Brain-FF4088?style=flat-square&logo=Hugo&logoColor=white&link=https://shin-jae-yoon.github.io/"/>
 </a>
-<a href="https://www.instagram.com/jae__yoon96/">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jae__yoon96/"/>
+<a href="mailto:wlwhsvkdlxh@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlwhsvkdlxh@gmail.com"/>
 </a>
 </div>
 
