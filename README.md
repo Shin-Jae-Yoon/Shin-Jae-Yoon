@@ -22,7 +22,7 @@
 <a href="https://shin-jae-yoon.github.io/">
   <img src="https://img.shields.io/badge/-Second Brain-FF4088?style=flat-square&logo=Hugo&logoColor=white&link=https://shin-jae-yoon.github.io/"/>
 </a>
-<a href="[https://shin-jae-yoon.github.io/](https://www.linkedin.com/in/%EC%9E%AC%EC%9C%A4-%EC%8B%A0-645839247/)">
+<a href="https://www.linkedin.com/in/%EC%9E%AC%EC%9C%A4-%EC%8B%A0-645839247/">
   <img src="https://img.shields.io/badge/-Linkedin-0b65c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%9E%AC%EC%9C%A4-%EC%8B%A0-645839247/"/>
 </a>
 <a href="mailto:wlwhsvkdlxh@gmail.com">
